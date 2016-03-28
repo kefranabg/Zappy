@@ -1,0 +1,16 @@
+/*
+** manual_action.c for manual_action.c in /home/acca_b/rendu/PSU_2013_zappy
+**
+** Made by Baptiste Acca
+** Login   <acca_b@epitech.net>
+**
+** Started on  Thu Jul 10 15:57:07 2014 Baptiste Acca
+** Last update Thu Jul 10 15:57:10 2014 Baptiste Acca
+*/
+
+#include		"projet.h"
+
+void			projet_fonction()
+{
+
+}

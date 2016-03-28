@@ -1,0 +1,17 @@
+/*
+** termcaps_functions.c for termcaps_functions.c in /home/acca_b/rendu/PSU_2013_zappy
+**
+** Made by Baptiste Acca
+** Login   <acca_b@epitech.net>
+**
+** Started on  Thu Jul 10 16:09:59 2014 Baptiste Acca
+** Last update Thu Jul 10 16:10:11 2014 Baptiste Acca
+*/
+
+
+#include		"client.h"
+
+void			projet_fonction()
+{
+
+}
