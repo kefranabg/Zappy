@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bnsoir
-=======
-bonjour
->>>>>>> 4f207c49675a5fa619d1906220262a4b63edbb5e
+test
