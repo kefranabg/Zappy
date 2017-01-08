@@ -1,2 +1,2 @@
 test
-Conflict resolved
+2
